@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="electorialSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/electorialSystem/dist/electorialSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
